@@ -1,0 +1,1467 @@
+config firewall address
+    edit "Andorra"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AD"
+    next
+    edit "United-Arab-Emirates"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AE"
+    next
+    edit "Afghanistan"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AF"
+    next
+    edit "Antigua-and-Barbuda"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AG"
+    next
+    edit "Anguilla"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AI"
+    next
+    edit "Albania"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AL"
+    next
+    edit "Armenia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AM"
+    next
+    edit "Netherlands-Antilles"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AN"
+    next
+    edit "Angola"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AO"
+    next
+    edit "Antarctica"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AQ"
+    next
+    edit "Argentina"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AR"
+    next
+    edit "American-Samoa"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AS"
+    next
+    edit "Austria"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AT"
+    next
+    edit "Australia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AU"
+    next
+    edit "Aruba"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AW"
+    next
+    edit "Azerbaijan"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "AZ"
+    next
+    edit "Bosnia-and-Herzegovina"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BA"
+    next
+    edit "Barbados"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BB"
+    next
+    edit "Bangladesh"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BD"
+    next
+    edit "Belgium"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BE"
+    next
+    edit "Burkina-Faso"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BF"
+    next
+    edit "Bulgaria"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BG"
+    next
+    edit "Bahrain"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BH"
+    next
+    edit "Burundi"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BI"
+    next
+    edit "Benin"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BJ"
+    next
+    edit "Bermuda"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BM"
+    next
+    edit "Brunei-Darussalam"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BN"
+    next
+    edit "Bolivia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BO"
+    next
+    edit "Brazil"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BR"
+    next
+    edit "Bahamas"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BS"
+    next
+    edit "Bhutan"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BT"
+    next
+    edit "Bouvet-Island"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BV"
+    next
+    edit "Botswana"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BW"
+    next
+    edit "Belarus"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BY"
+    next
+    edit "Belize"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "BZ"
+    next
+    edit "Canada"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CA"
+    next
+    edit "Cocos-Keeling)-Islands"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CC"
+    next
+    edit "Central-African-Republic"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CF"
+    next
+    edit "Congo"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CG"
+    next
+    edit "Switzerland"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CH"
+    next
+    edit "Cote-D'Ivoire-Ivory-Coast"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CI"
+    next
+    edit "Cook-Islands"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CK"
+    next
+    edit "Chile"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CL"
+    next
+    edit "Cameroon"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CM"
+    next
+    edit "China"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CN"
+    next
+    edit "Colombia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CO"
+    next
+    edit "Costa-Rica"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CR"
+    next
+    edit "Czechoslovakia-former"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CS"
+    next
+    edit "Cuba"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CU"
+    next
+    edit "Cape-Verde"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CV"
+    next
+    edit "Christmas-Island"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CX"
+    next
+    edit "Cyprus"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CY"
+    next
+    edit "Czech-Republic"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "CZ"
+    next
+    edit "Germany"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "DE"
+    next
+    edit "Djibouti"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "DJ"
+    next
+    edit "Denmark"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "DK"
+    next
+    edit "Dominica"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "DM"
+    next
+    edit "Dominican-Republic-"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "DO"
+    next
+    edit "Algeria"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "DZ"
+    next
+    edit "Ecuador"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "EC"
+    next
+    edit "Estonia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "EE"
+    next
+    edit "Egypt"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "EG"
+    next
+    edit "Western-Sahara"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "EH"
+    next
+    edit "Eritrea"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "ER"
+    next
+    edit "Spain"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "ES"
+    next
+    edit "Ethiopia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "ET"
+    next
+    edit "Finland"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "FI"
+    next
+    edit "Fiji"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "FJ"
+    next
+    edit "Falkland-Islands-Malvinas"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "FK"
+    next
+    edit "Micronesia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "FM"
+    next
+    edit "Faroe-Islands"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "FO"
+    next
+    edit "France"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "FR"
+    next
+    edit "France--Metropolitan"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "FX"
+    next
+    edit "Gabon"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GA"
+    next
+    edit "Great-Britain-UK"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GB"
+    next
+    edit "Grenada"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GD"
+    next
+    edit "Georgia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GE"
+    next
+    edit "French-Guiana"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GF"
+    next
+    edit "Ghana"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GH"
+    next
+    edit "Gibraltar"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GI"
+    next
+    edit "Greenland"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GL"
+    next
+    edit "Gambia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GM"
+    next
+    edit "Guinea"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GN"
+    next
+    edit "Guadeloupe"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GP"
+    next
+    edit "Equatorial-Guinea"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GQ"
+    next
+    edit "Greece"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GR"
+    next
+    edit "S.-Georgia-and-S.-Sandwich-Isls"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GS"
+    next
+    edit "Guatemala"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GT"
+    next
+    edit "Guam"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GU"
+    next
+    edit "Guinea-Bissau"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GW"
+    next
+    edit "Guyana"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "GY"
+    next
+    edit "Hong-Kong"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "HK"
+    next
+    edit "Heard-and-McDonald-Islands"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "HM"
+    next
+    edit "Honduras"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "HN"
+    next
+    edit "Croatia-Hrvatska"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "HR"
+    next
+    edit "Haiti"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "HT"
+    next
+    edit "Hungary"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "HU"
+    next
+    edit "Indonesia-"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "ID"
+    next
+    edit "Ireland"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "IE"
+    next
+    edit "Israel"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "IL"
+    next
+    edit "India"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "IN"
+    next
+    edit "British-Indian-Ocean-Territory"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "IO"
+    next
+    edit "Iraq"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "IQ"
+    next
+    edit "Iran"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "IR"
+    next
+    edit "Iceland"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "IS"
+    next
+    edit "Italy"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "IT"
+    next
+    edit "Jamaica"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "JM"
+    next
+    edit "Jordan"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "JO"
+    next
+    edit "Japan"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "JP"
+    next
+    edit "Kenya"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "KE"
+    next
+    edit "Kyrgyzstan"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "KG"
+    next
+    edit "Cambodia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "KH"
+    next
+    edit "Kiribati"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "KI"
+    next
+    edit "Comoros"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "KM"
+    next
+    edit "Saint-Kitts-and-Nevis"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "KN"
+    next
+    edit "Korea-North"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "KP"
+    next
+    edit "Korea-South"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "KR"
+    next
+    edit "Kuwait"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "KW"
+    next
+    edit "Cayman-Islands"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "KY"
+    next
+    edit "Kazakhstan"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "KZ"
+    next
+    edit "Laos"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "LA"
+    next
+    edit "Lebanon"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "LB"
+    next
+    edit "Saint-Lucia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "LC"
+    next
+    edit "Liechtenstein"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "LI"
+    next
+    edit "Sri-Lanka"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "LK"
+    next
+    edit "Liberia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "LR"
+    next
+    edit "Lesotho"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "LS"
+    next
+    edit "Lithuania"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "LT"
+    next
+    edit "Luxembourg"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "LU"
+    next
+    edit "Latvia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "LV"
+    next
+    edit "Libya"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "LY"
+    next
+    edit "Morocco"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MA"
+    next
+    edit "Monaco"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MC"
+    next
+    edit "Moldova"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MD"
+    next
+    edit "Madagascar"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MG"
+    next
+    edit "Marshall-Islands"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MH"
+    next
+    edit "Macedonia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MK"
+    next
+    edit "Mali"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "ML"
+    next
+    edit "Myanmar"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MM"
+    next
+    edit "Mongolia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MN"
+    next
+    edit "Macau"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MO"
+    next
+    edit "Northern-Mariana-Islands"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MP"
+    next
+    edit "Martinique"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MQ"
+    next
+    edit "Mauritania"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MR"
+    next
+    edit "Montserrat"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MS"
+    next
+    edit "Malta"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MT"
+    next
+    edit "Mauritius"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MU"
+    next
+    edit "Maldives"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MV"
+    next
+    edit "Malawi"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MW"
+    next
+    edit "Mexico"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MX"
+    next
+    edit "Malaysia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MY"
+    next
+    edit "Mozambique"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "MZ"
+    next
+    edit "Namibia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "NA"
+    next
+    edit "New-Caledonia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "NC"
+    next
+    edit "Niger"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "NE"
+    next
+    edit "Norfolk-Island"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "NF"
+    next
+    edit "Nigeria"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "NG"
+    next
+    edit "Nicaragua"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "NI"
+    next
+    edit "Netherlands"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "NL"
+    next
+    edit "Norway"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "NO"
+    next
+    edit "Nepal"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "NP"
+    next
+    edit "Nauru"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "NR"
+    next
+    edit "Neutral-Zone"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "NT"
+    next
+    edit "Niue"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "NU"
+    next
+    edit "New-Zealand-Aotearoa"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "NZ"
+    next
+    edit "Oman"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "OM"
+    next
+    edit "Panama"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "PA"
+    next
+    edit "Peru"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "PE"
+    next
+    edit "French-Polynesia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "PF"
+    next
+    edit "Papua-New-Guinea"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "PG"
+    next
+    edit "Philippines"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "PH"
+    next
+    edit "Pakistan"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "PK"
+    next
+    edit "Poland"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "PL"
+    next
+    edit "St.-Pierre-and-Miquelon"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "PM"
+    next
+    edit "Pitcairn"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "PN"
+    next
+    edit "Puerto-Rico"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "PR"
+    next
+    edit "Portugal"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "PT"
+    next
+    edit "Palau"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "PW"
+    next
+    edit "Paraguay"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "PY"
+    next
+    edit "Qatar"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "QA"
+    next
+    edit "Reunion"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "RE"
+    next
+    edit "Romania"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "RO"
+    next
+    edit "Russian-Federation"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "RU"
+    next
+    edit "Rwanda"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "RW"
+    next
+    edit "Saudi-Arabia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SA"
+    next
+    edit "Solomon-Islands"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "Sb"
+    next
+    edit "Seychelles"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SC"
+    next
+    edit "Sudan"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SD"
+    next
+    edit "Sweden"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SE"
+    next
+    edit "Singapore"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SG"
+    next
+    edit "St.-Helena"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SH"
+    next
+    edit "Slovenia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SI"
+    next
+    edit "Svalbard-and-Jan-Mayen-Islands"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SJ"
+    next
+    edit "Slovak-Republic"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SK"
+    next
+    edit "Sierra-Leone"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SL"
+    next
+    edit "San-Marino"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SM"
+    next
+    edit "Senegal"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SN"
+    next
+    edit "Somalia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SO"
+    next
+    edit "Suriname"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SR"
+    next
+    edit "Sao-Tome-and-Principe"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "ST"
+    next
+    edit "USSR-former"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SU"
+    next
+    edit "El-Salvador"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SV"
+    next
+    edit "Syria"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SY"
+    next
+    edit "Swaziland"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "SZ"
+    next
+    edit "Turks-and-Caicos-Islands"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TC"
+    next
+    edit "Chad"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TD"
+    next
+    edit "French-Southern-Territories"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TF"
+    next
+    edit "Togo"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TG"
+    next
+    edit "Thailand"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TH"
+    next
+    edit "Tajikistan"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TJ"
+    next
+    edit "Tokelau"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TK"
+    next
+    edit "Turkmenistan"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TM"
+    next
+    edit "Tunisia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TN"
+    next
+    edit "Tonga"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TO"
+    next
+    edit "East-Timor"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TP"
+    next
+    edit "Turkey"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TR"
+    next
+    edit "Trinidad-and-Tobago"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TT"
+    next
+    edit "Tuvalu"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TV"
+    next
+    edit "Taiwan"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TW"
+    next
+    edit "Tanzania"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "TZ"
+    next
+    edit "Ukraine"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "UA"
+    next
+    edit "Uganda"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "UG"
+    next
+    edit "United-Kingdom"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "UK"
+    next
+    edit "US-Minor-Outlying-Islands"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "UM"
+    next
+    edit "United-States"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "US"
+    next
+    edit "Uruguay"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "UY"
+    next
+    edit "Uzbekistan"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "UZ"
+    next
+    edit "Vatican-City-State-Holy-See"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "VA"
+    next
+    edit "Saint-Vincent-and-the-Grenadines"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "VC"
+    next
+    edit "Venezuela"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "VE"
+    next
+    edit "Virgin-Islands-British"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "VG"
+    next
+    edit "Virgin-Islands-U.S."
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "VI"
+    next
+    edit "Viet-Nam"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "VN"
+    next
+    edit "Vanuatu"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "VU"
+    next
+    edit "Wallis-and-Futuna-Islands"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "WF"
+    next
+    edit "Samoa"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "WS"
+    next
+    edit "Yemen"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "YE"
+    next
+    edit "Mayotte"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "YT"
+    next
+    edit "Yugoslavia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "YU"
+    next
+    edit "South-Africa"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "ZA"
+    next
+    edit "Zambia"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "ZM"
+    next
+    edit "Zaire"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "ZR"
+    next
+    edit "Zimbabwe"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "ZW"
+    next
+    edit "US-Commercial"
+        set type geography
+        set associated-interface "wan1"
+        set color 6
+        set country "COM"
+    next
+end    
+ 
