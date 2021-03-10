@@ -215,7 +215,7 @@ config firewall address
         set color 6
         set country "CA"
     next
-    edit "Cocos-Keeling)-Islands"
+    edit "Cocos-Keeling-Islands"
         set type geography
         set associated-interface "wan1"
         set color 6
@@ -239,7 +239,7 @@ config firewall address
         set color 6
         set country "CH"
     next
-    edit "Cote-D'Ivoire-Ivory-Coast"
+    edit "Cote-DIvoire-Ivory-Coast"
         set type geography
         set associated-interface "wan1"
         set color 6
@@ -280,12 +280,6 @@ config firewall address
         set associated-interface "wan1"
         set color 6
         set country "CR"
-    next
-    edit "Czechoslovakia-former"
-        set type geography
-        set associated-interface "wan1"
-        set color 6
-        set country "CS"
     next
     edit "Cuba"
         set type geography
@@ -430,12 +424,6 @@ config firewall address
         set associated-interface "wan1"
         set color 6
         set country "FR"
-    next
-    edit "France--Metropolitan"
-        set type geography
-        set associated-interface "wan1"
-        set color 6
-        set country "FX"
     next
     edit "Gabon"
         set type geography
@@ -971,12 +959,6 @@ config firewall address
         set color 6
         set country "NR"
     next
-    edit "Neutral-Zone"
-        set type geography
-        set associated-interface "wan1"
-        set color 6
-        set country "NT"
-    next
     edit "Niue"
         set type geography
         set associated-interface "wan1"
@@ -1113,7 +1095,7 @@ config firewall address
         set type geography
         set associated-interface "wan1"
         set color 6
-        set country "Sb"
+        set country "SB"
     next
     edit "Seychelles"
         set type geography
@@ -1199,12 +1181,6 @@ config firewall address
         set color 6
         set country "ST"
     next
-    edit "USSR-former"
-        set type geography
-        set associated-interface "wan1"
-        set color 6
-        set country "SU"
-    next
     edit "El-Salvador"
         set type geography
         set associated-interface "wan1"
@@ -1283,11 +1259,11 @@ config firewall address
         set color 6
         set country "TO"
     next
-    edit "East-Timor"
+    edit "Timor-Leste"
         set type geography
         set associated-interface "wan1"
         set color 6
-        set country "TP"
+        set country "TL"
     next
     edit "Turkey"
         set type geography
@@ -1335,7 +1311,7 @@ config firewall address
         set type geography
         set associated-interface "wan1"
         set color 6
-        set country "UK"
+        set country "GB"
     next
     edit "US-Minor-Outlying-Islands"
         set type geography
@@ -1427,12 +1403,6 @@ config firewall address
         set color 6
         set country "YT"
     next
-    edit "Yugoslavia"
-        set type geography
-        set associated-interface "wan1"
-        set color 6
-        set country "YU"
-    next
     edit "South-Africa"
         set type geography
         set associated-interface "wan1"
@@ -1445,23 +1415,10 @@ config firewall address
         set color 6
         set country "ZM"
     next
-    edit "Zaire"
-        set type geography
-        set associated-interface "wan1"
-        set color 6
-        set country "ZR"
-    next
     edit "Zimbabwe"
         set type geography
         set associated-interface "wan1"
         set color 6
         set country "ZW"
     next
-    edit "US-Commercial"
-        set type geography
-        set associated-interface "wan1"
-        set color 6
-        set country "COM"
-    next
-end    
- 
+end
